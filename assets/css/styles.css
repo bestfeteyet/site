@@ -3,7 +3,7 @@ body {
 }
 
 #logo {
-    width: 400px;
+    width: 320px;
 }
 
 #cupcakes {
@@ -11,4 +11,9 @@ body {
     border-radius: 30px;
 	box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
 	transform: rotate(4deg) translateZ(0);
+}
+
+.emails {
+    color: #333;
+    font-weight: bold;
 }
